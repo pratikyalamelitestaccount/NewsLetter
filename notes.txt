@@ -1,0 +1,5 @@
+ComponentDidMount : 
+It is use to mount the requested data
+It runs after render
+
+Async:  Async function wait karta jabh tak thode problems resolve nahi hota tabh tak. Like abhi jabh hamm async use karte hai toh uske saath  "await" bhi use karte hai. So jabh tak voh condition "await" mai aati nahi tabh tak voh wait karega
